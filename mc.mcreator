@@ -16,7 +16,12 @@
       "locked_code": false,
       "registry_name": "shopstart",
       "metadata": {
-        "dependencies": []
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
       }
     },
     {

@@ -64,7 +64,7 @@ public class SangjeomButtonMessage {
 			return;
 		if (buttonID == 0) {
 
-			ShopstartProcedure.execute();
+			ShopstartProcedure.execute(entity);
 		}
 	}
 
